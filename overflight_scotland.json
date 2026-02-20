@@ -1,0 +1,26 @@
+[
+    {
+        "location": "Scotland",
+        "title": "Coast",
+        "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_2K_HEVC.mov",
+        "url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Scotland",
+        "title": "Lake",
+        "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/S005_C015_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S005_C015_HDR_2K_HEVC.mov",
+        "url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/S005_C015_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S005_C015_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Scotland",
+        "title": "Castle",
+        "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/S006_C007_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S006_C007_HDR_2K_HEVC.mov",
+        "url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/S006_C007_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S006_C007_HDR_4K_HEVC.mov"
+    },
+]
