@@ -2,9 +2,6 @@
     {
         "location": "Scotland",
         "title": "Coast",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_4K_HEVC.mov"
+        "url_1080p": "https://sylvan.apple.com/Videos/S003_C020_SDR_2K_AVC.mov"
     }
 ]
