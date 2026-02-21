@@ -1,10 +1,26 @@
 [
   {
-        "location": "Greenland",
-        "title": "Glacier",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
-    }
+    "location": "Scotland",
+    "title": "Coast",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_2K_HEVC.mov",
+    "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/S003_C020_SDR_4K_HEVC.mov",
+    "url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/S003_C020_HDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Scotland",
+    "title": "Lake",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/S005_C015_SDR_2K_HEVC.mov",
+    "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S005_C015_HDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/S005_C015_SDR_4K_HEVC.mov",
+    "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S005_C015_HDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Scotland",
+    "title": "Castle",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/S006_C007_SDR_2K_HEVC.mov",
+    "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S006_C007_HDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/S006_C007_SDR_4K_HEVC.mov",
+    "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/S006_C007_HDR_4K_HEVC.mov"
+  }
 ]
