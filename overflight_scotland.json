@@ -1,10 +1,10 @@
 [
-    {
-        "location": "Yosemite",
-        "title": "Horizon",
-        "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/Y002_C013_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/Y002_C013_HDR_2K_HEVC.mov",
-        "url_4k": "https://sylvan.apple.com/Aerials/2x/Videos/Y002_C013_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/Y002_C013_HDR_4K_HEVC.mov"
+  {
+        "location": "Greenland",
+        "title": "Glacier",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
     }
 ]
